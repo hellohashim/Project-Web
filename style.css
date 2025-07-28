@@ -1,0 +1,21 @@
+*
+{
+    padding: 0;
+    margin : 0;
+}
+body{
+    background: #eae2f5ea;
+}
+.nav-item
+{
+    display: inline-block;
+    margin-right: 20px;
+}
+#setting-icon-span {
+    margin-right: 20px;
+    margin-top: 3px;
+}
+#setting-icon 
+{
+   font-size: 1.4em;
+}
